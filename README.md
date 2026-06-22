@@ -74,5 +74,3 @@ For chatbot:
 4. Best matching response is returned  
 
 ---
-
-## Project Structure

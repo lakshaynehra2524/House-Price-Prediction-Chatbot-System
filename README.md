@@ -3,7 +3,7 @@
 ## Overview
 This project is a machine learning-based system that predicts house prices and also includes a simple chatbot for user interaction.
 
-The application is built using Streamlit and allows users to input housing features and compare predictions from different regression models.
+The application is built using Streamlit and allows users to input housing features and compare predictions from different regression 
 
 ---
 
